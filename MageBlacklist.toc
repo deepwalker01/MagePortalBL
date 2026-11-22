@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: |cff66e0ffMage Portal Blacklist|r
+## Notes: Shared blacklist of portal non-payers for mages (WoW Forever). Works for mages level 20+ only.
+## Author: MageBL
+## Version: 3.2
+## IconTexture: Interface\Icons\Spell_Arcane_PortalOrgrimmar
+## AddonCompartmentFunc: MageBlacklist_OnCompartmentClick
+## AddonCompartmentFuncOnEnter: MageBlacklist_OnCompartmentEnter
+## AddonCompartmentFuncOnLeave: MageBlacklist_OnCompartmentLeave
+## SavedVariables: MageBlacklistDB
+
+MageBlacklist.lua
